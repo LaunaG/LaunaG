@@ -1,6 +1,6 @@
 ## Hi, there! 👋
 
-I'm a software engineer at the [University of Chicago Data Science Institute](https://datascience.uchicago.edu/), where I partner with social impact organizations in domains like development finance, agricultural policy, and marine science to build custom data solutions through a grant from the [11th Hour Project](https://11thhourproject.org/). Prior to my current role, I worked for a Microsoft partner company deploying Azure microservices as part of a larger cloud migration for a Fortune 1000 restaurant chain.
+I'm a software engineer at the [University of Chicago Data Science Institute](https://datascience.uchicago.edu/), where I partner with social impact organizations in domains like development finance, agricultural policy, and marine science to build custom data solutions through a grant from the [11th Hour Project](https://11thhourproject.org/). Prior to my current role, I worked for a Microsoft partner company and built  microservices to help a Fortune 1000 restaurant chain migrate fully to Azure.
 
 🔭 **I'm currently working on...**
 

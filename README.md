@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, there! 👋
 
-<!--
-**LaunaG/LaunaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer at the [University of Chicago Data Science Institute](https://datascience.uchicago.edu/), where I partner with social impact organizations in domains like development finance, agricultural policy, and marine science to build custom data solutions through a grant from the [11th Hour Project](https://11thhourproject.org/). Prior to my current role, I worked for a Microsoft partner company deploying Azure microservices as part of a larger cloud migration for a Fortune 1000 restaurant chain.
 
-Here are some ideas to get you started:
+🔭 **I'm currently working on...**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Several exciting projects through the Institute, including:
+
+- [ICONIC Oceans Data Hub](https://github.com/uchicago-dsi/miss-data-portal) with Minorities in Shark Sciences
+- [Development Bank Investment Tracker (DeBIT)](https://github.com/uchicago-dsi/debit-scrapers) and [Shareholder Tracker](https://github.com/uchicago-dsi/debit-scrapers) with Inclusive Development International
+
+🌯 **I've recently wrapped up...**
+
+The following projects were successfully handed off:
+
+- [Tax Credit Bonus Map](https://github.com/uchicago-dsi/climate-cabinet-tax-credit-map) with Climate Cabinet Education
+- [Regulatory Submissions Data Pipeline](https://github.com/FracTrackerAlliance/fractracker-complaints) with FracTracker Alliace [Private]
+
+🌱 **I’m currently learning...**
+
+- Remix and UI/UX design through a course with Kent C. Dodds while I'm on a front-end kick.
+- Next in the queue is a deeper dive into systems design.
+
+⚡ **Fun facts...**
+
+- My first exposure to programming occurred when I stumbled across a ThinkQuest website allowing children to draw geometric shapes with a turtle using the language logo.  It was fun and addictive! A precursor of things to come.
+- I pivoted into tech from a nontraditional background in the humanities and am passionable about making the field more accessible and inclusive. One day, I am interested in exploring digital/computational humanities projects.

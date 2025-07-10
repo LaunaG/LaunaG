@@ -6,7 +6,7 @@ I'm a software engineer at the [University of Chicago Data Science Institute](ht
 
 Several exciting projects through the Institute, including:
 
-- [ICONIC Oceans Data Hub](https://github.com/uchicago-dsi/miss-data-portal) with Minorities in Shark Sciences
+- [ICONIC Oceans Data Hub](https://github.com/uchicago-dsi/miss-data-portal) with Minorities in Shark Sciences [Private]
 - [Development Bank Investment Tracker (DeBIT)](https://github.com/uchicago-dsi/debit-scrapers) and [Shareholder Tracker](https://github.com/uchicago-dsi/idi-shareholder-tracker) with Inclusive Development International
 
 🌯 **I've recently wrapped up...**

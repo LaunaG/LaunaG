@@ -24,4 +24,4 @@ The following projects were successfully handed off:
 ⚡ **Fun facts...**
 
 - My first exposure to programming occurred in the 5th or 6th grade, when I stumbled across a ThinkQuest website allowing users to draw geometric shapes in Logo with a turtle icon.  It was fun and addictive! A precursor of things to come.
-- I pivoted into tech from a nontraditional background in the humanities and am passionable about making the field more accessible and inclusive. One day, I am interested in exploring digital/computational humanities projects.
+- I pivoted into tech from a nontraditional background in the humanities and am passionate about making the field more accessible and inclusive. One day, I hope to explore digital/computational humanities projects.
